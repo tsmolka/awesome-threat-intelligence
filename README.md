@@ -10,6 +10,7 @@ Feel free to [contribute](CONTRIBUTING.md).
 - [Frameworks](#frameworks-and-platforms)
 - [Tools](#tools)
 - [Research, Standards & Books](#research)
+- [Unsorted](#unsorted)
 
 
 ## Sources
@@ -900,7 +901,36 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
 </table>
 
+## <a name="unsorted"></a>Unsorted
 
+All kinds of other unsorted links, resources and materials. 
+
+<table>
+    <tr>
+        <td>
+            <a href="https://www.rsreese.com/online-information-security-analysis-tools-and-resources/" target="_blank">Online Information Security Analysis Tools and Resources</a>
+        </td>
+        <td>
+            A list of sites that analysts may find useful in their day-to-day analysis of indicators and threats.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://isc.sans.edu/suspicious_domains.html" target="_blank">SANS Suspicious Domains</a>
+        </td>
+        <td>
+            ISC is collecting and categorizing various lists associated with a certain level of sensitivity. 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://www.projecthoneypot.org/list_of_ips.php" target="_blank">Project Honeypot - Directory of Malicious IPs</a>
+        </td>
+        <td>
+            The list is comprised of Malicious IPs. Information is obtained from our worldwide network of honey pots.
+        </td>
+    </tr>    
+</table>
 
 ## License
 
